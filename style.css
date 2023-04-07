@@ -1,0 +1,16 @@
+/* seletor(nome da tag HTML, classe, id) {
+      o que queremos estilizar (cor, font, etc espa): valor;
+    } */
+h1 {
+    color: #2bff00;
+}
+
+.corVermelho {
+    color: rgb(255, 117, 117);
+}
+
+#fonte {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #00ff77;
+    color: #fff;
+}
